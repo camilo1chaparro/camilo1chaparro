@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi Word 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Juan Camilo</a></h1>
 
 <a target="_blank" align="center">
