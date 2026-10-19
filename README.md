@@ -1,5 +1,4 @@
-<h1 align="center">Hello Word 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Juan Camilo</a></h1>
+<h1 align="center">Hello Word 👋</h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
